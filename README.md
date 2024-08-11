@@ -7,7 +7,7 @@ A sample Rest Connector for midPoint implementing the Rest Connector Superclass 
 1. Clone this repository
 
 ```
-git clone git@github.com:Identicum/rest-users-connector.git
+git clone https://github.com/UPeU-CRAI/rest-users-connector.git
 ```
 
 2. Compile the sources and run the application
