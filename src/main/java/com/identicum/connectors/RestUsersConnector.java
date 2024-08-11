@@ -58,7 +58,7 @@ public class RestUsersConnector
 {
 	private static final Log LOG = Log.getLog(RestUsersConnector.class);
 	
-	private static final String USERS_ENDPOINT = "/users";
+	private static final String USERS_ENDPOINT = "/patrons";
 	private static final String ROLES_ENDPOINT = "/roles";
 
 	public static final String ATTR_FIRST_NAME = "firstName";
